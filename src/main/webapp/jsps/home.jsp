@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1>Hello Dasarath teaching devsecops</h1> 
+     <h1>Hello Dasarath teaching devops course</h1> 
     <h3>Training | Development | Consulting | KKDEVOPS</h3>
 </header>
 
